@@ -12,7 +12,7 @@
 - 2021.01 ~ ing SSAFY 5기 입과 (Java 웹 과정, DB 공부, 알고리즘 공부)
 ```
 
-#### ☕ 백준 알고리즘 
+#### ☕ 백준 알고리즘 (쓰기 시작한지 얼마 안됨)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qweas46)](https://solved.ac/qweas46/)
 
 #### ☕ github status
