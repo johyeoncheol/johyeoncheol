@@ -12,6 +12,13 @@
 - 2021.01 ~ ing SSAFY 5기 입과 (Java 웹 과정, DB 공부, 알고리즘 공부)
 ```
 
+### ☕ 교육 과정 진행
+```
+- 2016.03 ~ 2016.07 비트 단기 과정
+- 2016.08 ~ 2016.12 비트 고급 과정
+- 2021.01 ~ ing 싸피 교육 진행중
+```
+
 #### ☕ 백준 알고리즘
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qweas46)](https://solved.ac/qweas46/)
 - 사용한지 얼마 안되서 다 기록되지 않았습니다
