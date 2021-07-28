@@ -23,5 +23,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qweas46)](https://solved.ac/qweas46/)
 - 사용한지 얼마 안되서 다 기록되지 않았습니다
 
-222### ☕ github status
+### ☕ github status
 ![Johyeoncheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=johyeoncheol&show_icons=true&theme=radical)
