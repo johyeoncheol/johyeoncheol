@@ -13,11 +13,6 @@
 - 2021.08 ~ ing 백기선 인강 Spring MVC, Boot, JPA , Security, MSA, Spring Cloud 등등..
 ```
 
-## 📓 경력사항
-
-```
-- 2021.12 ~ ing 농심NDS 
-```
 
 ### 🔥 프로그래밍 숙련도
 ```
