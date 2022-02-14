@@ -10,7 +10,7 @@
 - 2019.08 ~ 2020.06 HTML, CSS, JavaScript, React 학습
 - 2019.09 ~ ing Java, Jsp, Spring 학습중 
 - 2021.01 ~ ing SSAFY 5기 입과 (Java 웹 과정, DB 공부, 알고리즘 공부)
-- 2021.08 ~ ing 백기선 인강 Spring MVC, Boot, JPA , Security, MSA, Spring Cloud 등등..
+- 2021.08 ~ ing MSA, Spring Cloud 등등..
 ```
 
 
