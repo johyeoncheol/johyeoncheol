@@ -16,15 +16,15 @@
 
 ### 🔥 프로그래밍 숙련도
 ```
-1(들어보기만 한 정도) ~ 10(누군가를 가르치면 프로젝트를 진행할 수 있는 정도)
 
-java, JSP, Spring : 7 소규모 프로젝트 3개 정도 진행
-Vue.js : 6  소규모 프로젝트 2개 정도 진행
-react.js: 5  소규모 프로젝트 2개 정도 진행
-DB(MySql,MariaDB) : 6 프로젝트를 진행 시 보통 사용
-DB(Redis,Postgre): 4 필요시에만 사용해봄
-C, C++, C# : 4 비트 컴퓨터 교육 때 사용해 봄
-
+java, JSP, Spring
+Vue.js 
+react.js
+DB(MySql,MariaDB) 
+DB(Redis,Postgre)
+C, C++, C# 
+Nexacro 17
+SAP ( ABAP ) ( PP Module )
 ```
 
 ### ☕ 교육 과정 진행
