@@ -24,7 +24,7 @@ DB(MySql,MariaDB)
 DB(Redis,Postgre)
 C, C++, C# 
 Nexacro 17
-SAP ( ABAP ) ( PP Module )
+SAP : ABAP ( PP Module )
 ```
 
 ### ☕ 교육 과정 진행
